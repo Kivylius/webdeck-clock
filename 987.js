@@ -1,4 +1,4 @@
-(self['webpackChunkwebdeck_plugin_template'] = self['webpackChunkwebdeck_plugin_template'] || []).push([["987"], {
+(self['webpackChunkwebdeck_plugin_clock'] = self['webpackChunkwebdeck_plugin_clock'] || []).push([["987"], {
 "448": (function (__unused_webpack_module, exports, __webpack_require__) {
 /**
  * @license React
@@ -11,7 +11,7 @@
  */ /*
  Modernizr 3.0.0pre (Custom Build) | MIT
 */ 'use strict';
-var aa = __webpack_require__(/*! react */"416"), ca = __webpack_require__(/*! scheduler */"840");
+var aa = __webpack_require__(/*! react */"190"), ca = __webpack_require__(/*! scheduler */"840");
 function p(a) {
     for(var b = "https://reactjs.org/docs/error-decoder.html?invariant=" + a, c = 1; c < arguments.length; c++)b += "&args[]=" + encodeURIComponent(arguments[c]);
     return "Minified React error #" + a + "; visit " + b + " for the full message or use the non-minified dev environment for full errors and additional helpful warnings.";
